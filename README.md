@@ -14,3 +14,4 @@ CLEANUP:
 
 NOTES:
 Webpage was created through AWS, specifically an S3 bucket. URL for website is in URLList.txt.
+URL for my website: http://practicebucketforpythonimplementation.s3-website.us-east-2.amazonaws.com/
