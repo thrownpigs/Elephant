@@ -1,6 +1,8 @@
 # Elephant
 Scripts and resources for Mini Project
 CloudFormationTemplate Instructions
+1. Put CFT in same folder as index.html
+2. 
 
 Test Script Instructions:
 PREREQUISITES REQUIRED:
